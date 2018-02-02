@@ -1,0 +1,105 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+:wq
+:w
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	LINE	0
+	
+"2	LINE	0
+	     d) 貴方も学ぶことができる?
+"3	LINE	0
+	     b) スミレは青い、
+"4	LINE	0
+	     a) バラは赤い、
+"5	LINE	0
+	--->  4)  私は車をもっている、
+	--->  5)  時計が時刻を告げる、
+"6	LINE	0
+	--->  2)  つまらないものは楽しい、
+"7	LINE	0
+	--->  5)  時計が時刻を告げる、
+	--->  6)  砂糖は甘い
+"8	LINE	0
+	--->  3)  スミレは青い、
+	--->  4)  私は車をもっている、
+"9	LINE	0
+	--->  2)  つまらないものは楽しい、
+""-	CHAR	0
+	た
+
+# ファイルマーク:
+'0  396  0  /tmp/tutorO90jQ4
+'1  191  0  /tmp/tutorMMAPZ5
+'2  1  0  ~/workspace/vim-study/test.txt
+'3  1  0  ~/.profile
+
+# ジャンプリスト (新しいものが先):
+-'  396  0  /tmp/tutorO90jQ4
+-'  316  0  /tmp/tutorO90jQ4
+-'  317  0  /tmp/tutorO90jQ4
+-'  311  0  /tmp/tutorO90jQ4
+-'  1  0  /tmp/tutorO90jQ4
+-'  191  0  /tmp/tutorMMAPZ5
+-'  1  0  /tmp/tutorMMAPZ5
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  1  0  ~/.profile
+-'  1  0  ~/.profile
+-'  396  0  /tmp/tutorO90jQ4
+-'  316  0  /tmp/tutorO90jQ4
+-'  317  0  /tmp/tutorO90jQ4
+-'  311  0  /tmp/tutorO90jQ4
+-'  1  0  /tmp/tutorO90jQ4
+-'  191  0  /tmp/tutorMMAPZ5
+-'  1  0  /tmp/tutorMMAPZ5
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  1  0  ~/.profile
+-'  1  0  ~/.profile
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> /tmp/tutorO90jQ4
+	"	396	0
+	.	388	0
+	+	318	0
+	+	316	0
+	+	317	0
+	+	386	0
+	+	383	0
+	+	385	0
+	+	384	0
+	+	385	0
+	+	386	0
+	+	388	0
+
+> /tmp/tutorMMAPZ5
+	"	191	0
+	^	133	59
+	.	133	56
+	+	83	59
+	+	108	62
+	+	131	56
+	+	133	56
+
+> ~/workspace/vim-study/test.txt
+	"	1	0
+
+> ~/.profile
+	"	1	0
